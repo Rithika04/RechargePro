@@ -1,0 +1,32 @@
+/* AdminNavigation.css */
+
+.admin-navigation {
+    background-color: #dc3545;
+    padding: 10px;
+  }
+  
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+  }
+  
+  li {
+    margin-right: 20px;
+  }
+  
+  li:last-child {
+    margin-right: 0;
+  }
+  
+  Link {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+  }
+  
+  Link:hover {
+    text-decoration: underline;
+  }
+  

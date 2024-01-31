@@ -1,0 +1,42 @@
+/* AdminProfilePage.css */
+
+.admin-container {
+  display: flex;
+}
+
+.admin-content-container {
+  max-width: 800px;
+  margin: 20px;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  flex: 1;
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+}
+
+.admin-profile {
+  display: flex;
+  align-items: center;
+}
+
+.admin-profile-image {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.admin-details {
+  flex: 1;
+}
+
+.label {
+  font-weight: bold;
+}
+
+/* Add more styles as needed */

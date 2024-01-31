@@ -1,0 +1,38 @@
+/* UserTypeSelection.css */
+
+.user-type-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #c90c0c;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(211, 32, 32, 0.1);
+  }
+  
+  div {
+    display: flex;
+    align-items: center;
+    margin-bottom: 18px;
+  }
+  
+  label {
+    margin-right: 10px;
+  }
+  
+  input[type="radio"] {
+    margin-right: 5px;
+  }
+  
+  button {
+    padding: 10px;
+    background-color: #e03721;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #edf762;
+  }
+  

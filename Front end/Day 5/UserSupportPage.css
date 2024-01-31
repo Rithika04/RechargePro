@@ -1,0 +1,44 @@
+/* UserSupportPage.css */
+
+.user-support-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    margin-bottom: 30px;
+  }
+  
+  .support-content {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .support-section {
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    color: #555;
+    margin-bottom: 5px;
+    text-align: left;
+  }
+  
+  a {
+    color: #2196F3;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  

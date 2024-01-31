@@ -1,0 +1,70 @@
+/* AdminPrepaidPlansPage.css */
+
+.admin-prepaid-plans-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 40px;
+    background-color: #f3efef;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+  }
+  
+  h2 {
+    color: #c23939;
+  }
+  
+  .plans-list {
+    margin-top: 20px;
+  }
+  
+  .plan-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .actions button {
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
+  .add-plan-form {
+    margin-top: 20px;
+  }
+  
+  .add-plan-form h3 {
+    color: #ccbbbb;
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    color: #555;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  button {
+    background-color: #2196F3;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #93a5c0;
+  }
+  

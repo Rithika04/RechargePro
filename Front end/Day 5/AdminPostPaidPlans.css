@@ -1,0 +1,56 @@
+/* AdminPostPaidPlansPage.css */
+
+.admin-postpaid-plans-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  h2 {
+    color: #333;
+  }
+  
+  .plans-list {
+    margin-top: 20px;
+  }
+  
+  .plan-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .actions button {
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  
+  .add-plan-form {
+    margin-top: 20px;
+  }
+  
+  .add-plan-form h3 {
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    color: #555;
+  }
+  
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+   
+  }  

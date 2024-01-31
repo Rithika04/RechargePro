@@ -1,0 +1,51 @@
+/* AdminHomePage.css */
+
+.admin-home-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+header {
+  background-color: #d8e6f1;
+  color: #fff;
+  padding: 15px;
+  border-radius: 8px 8px 0 0;
+}
+
+h2 {
+  margin: 0;
+}
+
+.admin-content {
+  text-align: center;
+  margin-top: 20px;
+}
+
+p {
+  color: #555;
+}
+
+.tasks-section,
+.settings-section {
+  margin-top: 20px;
+}
+
+h3 {
+  color: #333;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 8px;
+  color: #555;
+}
+
+/* Add more styles for admin-specific content as needed */
